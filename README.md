@@ -1,5 +1,5 @@
 
-# ![](images/icons/windows-update-32x32.png) [98.js](https://98.js.org)
+# ![](images/icons/windows-update-32x32.png) [98.js](https://isnotatiger.github.io/98/)
 
 A web based Windows 98 desktop remake.
 
@@ -28,9 +28,9 @@ Features:
 
 ## Try it out
 
-[ ＥＮＴＥＲ　![](images/icons/windows-update-16x16.png)　ＷＩＮＤＯＷＳ　９８　体験へようこそ](https://98.js.org/)
+[ ＥＮＴＥＲ　![](images/icons/windows-update-16x16.png)　ＷＩＮＤＯＷＳ　９８　体験へようこそ](https://isnotatiger.github.io/98/)
 
-[![](images/3d.jpg)](https://98.js.org/)
+[![](images/3d.jpg)](https://isnotatiger.github.io/98/)
 
 ## License
 
